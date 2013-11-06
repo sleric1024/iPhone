@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Cal_Eric' target in the 'Cal_Eric' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
